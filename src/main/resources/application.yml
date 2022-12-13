@@ -1,0 +1,7 @@
+micronaut:
+  application:
+    name: mongoIgnoreCase
+netty:
+  default:
+    allocator:
+      max-order: 3
